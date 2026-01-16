@@ -1,0 +1,7 @@
+torch
+pygame
+numpy
+moderngl
+pyrr
+moderngl-window
+pyglet
